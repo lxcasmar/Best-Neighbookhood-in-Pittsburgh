@@ -3,12 +3,17 @@
 ## TeamName:PlaceHolder
 
 ## Team Members
-Luis Castellanos
-	ljc53@pitt.edu
+Luis Castellanos 
+
+ljc53@pitt.edu
+
 Emily Houck
-	ech64@pitt.edu
+	
+ech64@pitt.edu
+
 Benjamin Solomon
-	bds78@pitt.edu
+
+bds78@pitt.edu
 
 ## Data Sets Used
 Fire Incidents Metric
