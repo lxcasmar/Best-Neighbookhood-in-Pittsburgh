@@ -4,15 +4,12 @@
 
 ## Team Members
 Luis Castellanos 
-
 ljc53@pitt.edu
 
 Emily Houck
-	
 ech64@pitt.edu
 
 Benjamin Solomon
-
 bds78@pitt.edu
 
 ## Data Sets Used
